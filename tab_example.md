@@ -8,13 +8,13 @@ tags: example-tag
 
 ## Example
 
-### 1. Solve the Lab:
+### 1. Solve the Lab
 
 ![](assets/images/CP.png)
 <br>
 <br>
 
-### 2. Find the vulnerability in the source code:
+### 2. Find the vulnerability in the source code
 
 ![](assets/images/Analyze.png)
 <br>
