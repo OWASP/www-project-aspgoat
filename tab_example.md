@@ -8,4 +8,15 @@ tags: example-tag
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+
+![SQLi](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/AspGoat-SQLi.png)
+<br></br>
+![InDe](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/AspGoat-InseDe.png)
+<br></br>
+![FileUp](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/AspGoat-FileUpload.png)
+<br></br>
+![CP](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/AspGoat-CP-Insecure.png)
+<br></br>
+![CP](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/AspGoat-CP-Secure.png)
+<br></br>
+![AI](https://github.com/Soham7-dev/Images-and-GIFS/blob/main/XSS-via-AI.png)
